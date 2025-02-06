@@ -4,6 +4,7 @@ a spends manager with PyQt6 and python3 and sqlite3 where you can add, remove, e
 
 # How use 
 <h2>First way</h2>
+test
   ```
     git clone https://github.com/AmiraliTanabian/spends_app_python && cd spends_app_python
     pip install -r requirement.txt
