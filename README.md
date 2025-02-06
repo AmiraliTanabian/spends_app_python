@@ -4,12 +4,15 @@ a spends manager with PyQt6 and python3 and sqlite3 where you can add, remove, e
 
 # How use 
 <h2>First way</h2>
-test
-  ```
+1) Clone the repository 
+2) install moudles 
+3) run main.p
+
+```
     git clone https://github.com/AmiraliTanabian/spends_app_python && cd spends_app_python
     pip install -r requirement.txt
     python3 main.py 
-  ```
+```
 
 <h2>Second way</h2>
 go to 'Executable files' and download the file based on your os and run 
