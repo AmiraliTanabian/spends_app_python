@@ -4,9 +4,9 @@ a spends manager with PyQt6 and python3 and sqlite3 where you can add, remove, e
 
 # How use 
 <h2>First way</h2>
-1) Clone the repository 
-2) install moudles 
-3) run main.p
+1) Clone the repository <br>
+2) install moudles <br>
+3) run main.py <br>
 
 ```
     git clone https://github.com/AmiraliTanabian/spends_app_python && cd spends_app_python
